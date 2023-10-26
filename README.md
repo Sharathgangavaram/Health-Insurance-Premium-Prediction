@@ -1,1 +1,2 @@
-# ineuron-ml-internship-project
+ ineuron-ml-internship-project
+ Insurance Premium prediction
