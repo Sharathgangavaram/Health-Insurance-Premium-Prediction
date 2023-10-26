@@ -1,1 +1,1 @@
-# Health-Insurance-Premium-Prediction
+# ineuron-ml-internship-project
